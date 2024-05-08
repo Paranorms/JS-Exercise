@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  /*  Greeting*/  
+  input[type="text"], button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  #greetingMessage {
+    margin-top: 15px;
+    font-size: 18px;
+    padding: 15px;
+  }
+   /*  Arithmetic*/  
+  input[type="number"], button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  #result {
+    margin-top: 15px;
+    font-size: 18px;
+    padding: 15px;
+  }
+  /*  Odd or Even */
+  input[type="number2"], button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  #result2 {
+    margin-top: 15px;
+    font-size: 18px;
+    padding: 15px;
+  }
+
+  input[type="number3"], button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  #gradeResult {
+    margin-top: 15px;
+    font-size: 18px;
+    padding: 15px;
+  }
+  
